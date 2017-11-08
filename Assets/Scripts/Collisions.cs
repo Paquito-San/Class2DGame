@@ -42,6 +42,22 @@ public class Collisions : MonoBehaviour {
 
 
     // Use this for initialization
+
+    public void MyStart()
+    {
+
+    }
+
+    public void MyFixedUpdate()
+    {
+
+    }
+
+    public void Flip(bool isFacingRight)
+    {
+
+    }
+
     void ResetState ()
     {
         isGrounded = false;
