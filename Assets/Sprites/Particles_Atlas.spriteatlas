@@ -8,29 +8,31 @@ SpriteAtlas:
   m_Name: Particles_Atlas
   m_EditorData:
     textureSettings:
+      serializedVersion: 2
       anisoLevel: 1
       compressionQuality: 50
       maxTextureSize: 2048
       textureCompression: 0
-      colorSpace: 1
       filterMode: 1
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
+      sRGB: 0
     platformSettings: []
     packingParameters:
-      paddingPower: 2
+      serializedVersion: 2
+      padding: 4
       blockOffset: 1
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
     packedHash:
       serializedVersion: 2
-      Hash: 71caaddaf0d7a47c70d487ff3b04d753
+      Hash: c0acc430324d55d91b6ec47dcf925b41
     variantMultiplier: 1
     bindAsDefault: 1
     finalFormat: 4
-    hashString: 71caaddaf0d7a47c70d487ff3b04d753
+    hashString: c0acc430324d55d91b6ec47dcf925b41
     totalSpriteSurfaceArea: 5920
     packables:
     - {fileID: 102900000, guid: f0dfa4eeb8104f14ea14b507c9fa012d, type: 3}
